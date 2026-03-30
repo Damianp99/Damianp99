@@ -31,8 +31,6 @@ const damian = {
 - 🔭 **Currently working on** various full-stack projects
 - 🌱 **Learning** new technologies and best practices
 - 👯 **Open to** collaborating on interesting projects
-- 💬 **Ask me about** web development, backend architecture, or frontend frameworks
-- ⚡ **Fun fact:** I love solving complex problems and building efficient solutions
 
 ---
 
